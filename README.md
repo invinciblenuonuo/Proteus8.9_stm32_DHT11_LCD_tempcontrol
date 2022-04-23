@@ -1,0 +1,2 @@
+# Proteus8.9_stm32_DHT11_LCD_tempcontrol
+利用proteus8.9仿真stm32读取DHT11并显示在LCD上面，可通过按钮设置温湿度上下限，当超限时，会报警并且开启对应的设备
